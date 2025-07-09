@@ -1,0 +1,28 @@
+body {
+    margin: 0%;
+    padding: auto;
+    box-sizing: border-box;
+}
+.dodo {
+    margin: 0;
+    background-color: blue;
+}
+.mn {
+     font-weight: 900;
+     font-size: 20px;
+}
+header{
+    width: 100%;
+    height: 500px;
+    margin: 0%;
+    text-align: end;
+    border-right: 5em;
+    background-color: gray;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: end;
+}
+.caja {
+    margin-right: 5 em;
+}
