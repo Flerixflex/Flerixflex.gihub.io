@@ -73,7 +73,7 @@ I {
    justify-content: center;
 }
 .card-img-top {
-    width: 354px;
+    width: 340px;
 }
 
 .contacto {
@@ -88,6 +88,7 @@ I {
 }
 .datos {
     width: 70%;
+    text-align: start;
 }
 span {
     font-size: 30px;
